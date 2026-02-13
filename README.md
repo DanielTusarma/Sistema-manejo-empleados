@@ -39,11 +39,11 @@ Aplicación fullstack con Python y Angular para la gestión de empleados utiliza
 
 - [x] Configuración inicial del backend
 - [x] Modelo de empleados
-- [ ] Definición del modelo Employee
-- [ ] Migraciones con Flask-Migrate
-- [ ] CRUD completo
-- [ ] Serialización con Marshmallow
-- [ ] Validaciones
+- [x] Definición del modelo Employee
+- [x] Migraciones con Flask-Migrate
+- [x] CRUD completo
+- [x] Serialización con Marshmallow
+- [x] Validaciones
 - [ ] Integración con Angular
-- [ ] Pruebas con Postman
+- [x] Pruebas con Postman
 - [ ] Deploy
